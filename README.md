@@ -1,5 +1,5 @@
 # AndyHackerRank
-I am looking forward to organize the algorithms according to programming languages. 
+I am looking forward to organize the algorithms based on programming languages. 
     
     Java
     Python
@@ -7,4 +7,5 @@ I am looking forward to organize the algorithms according to programming languag
     C
     
 In the meantime, enjoy!
+
 -Andy :)
